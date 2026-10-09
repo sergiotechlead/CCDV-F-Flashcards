@@ -13,7 +13,7 @@ simulation, all in one self-contained HTML page, in English and Spanish.**
 </p>
 
 
-![Claude Certified Developer (Foundations)](assets\screenshot\sergiotechlead.github.io_CCDV-F-Flashcards_.png)
+![Claude Certified Developer (Foundations)](assets/desktop.png)
 
 There's nothing to install or build. Open `CCDV-F Flashcards.html` in a
 browser and start studying.
