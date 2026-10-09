@@ -1,0 +1,13 @@
+{
+  "name": "ccdv-f",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Optional local preview server for docs/index.html",
+  "scripts": {
+    "start": "serve docs -l 3000",
+    "dev": "serve docs -l 3000"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
