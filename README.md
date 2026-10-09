@@ -1,4 +1,4 @@
-# CCDV-F Flashcards
+# Claude Certified Developer (Foundations) - Flashcards
 
 **Practice for the Claude Certified Developer (Foundations) exam with
 flashcards, multiple-choice drills, and a timed 53-question exam
@@ -11,6 +11,9 @@ simulation, all in one self-contained HTML page, in English and Spanish.**
   <img alt="Languages" src="https://img.shields.io/badge/i18n-EN%20%7C%20ES-6daaf5" height="20">
   <img alt="Claude" src="https://img.shields.io/badge/Claude-Artifact%20ready-D97757?logo=anthropic&logoColor=white" height="20">
 </p>
+
+
+![Claude Certified Developer (Foundations)](assets\screenshot\sergiotechlead.github.io_CCDV-F-Flashcards_.png)
 
 There's nothing to install or build. Open `CCDV-F Flashcards.html` in a
 browser and start studying.
